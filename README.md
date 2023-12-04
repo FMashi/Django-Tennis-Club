@@ -28,6 +28,7 @@ This project is a practical implementation of building a REST API for tennis clu
 3. Apply migrations:
 
    ```bash
+   cd core
    python manage.py makemigrations
    python manage.py migrate
    ```
